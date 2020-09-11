@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">ApiGetPost</string>
+    <string name="img_content">Image</string>
+    <string name="name">John Doe</string>
+    <string name="time_remaining">223 learning hours, Kenya</string>
+    <string name="submission">Project Submission</string>
+
+    <!-- EDIT TEXT HINT -->
+    <string name="hint_first_name">First Name</string>
+    <string name="hint_last_name">Last Name</string>
+    <string name="hint_email_address">Email Address</string>
+    <string name="hint_project_link">Project on GITHUB (link)</string>
+
+    <!-- BUTTON TEXT -->
+    <string name="submit_button">Submit</string>
+
+    <!-- POP TEXT -->
+    <string name="sure">Are you sure ?</string>
+    <string name="yes">Yes</string>
+    <string name="successful">Submission Successful</string>
+    <string name="successful_not">Submission not Successful</string>
+
+    <!-- GENERAL TEXT -->
+    <string name="leader">LeaderBoard</string>
+    <string name="learning">Learning Leaders</string>
+    <string name="skill">Skill IQ Leaders</string>
+    <string name="leaders_rating_side_text">, learning hours,</string>
+    <string name="skills_rating_side_text">, skill IQ Score,</string>
+
+    <!-- PICASSO TEXT -->
+    <string name="placeholder">Api Image</string>
+    <string name="error_loading">Error Loading Image</string>
+</resources>
